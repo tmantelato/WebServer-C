@@ -9,6 +9,4 @@ If the client asks for a directory without the '/' at the end, the server will r
 The code uses the signal library to see if the user cancels the server with control c. The signal handler function will close the socket to prevent memory error.
 
 
-
-
-
+##Columbia University class homework assignment 7, web server in C.
